@@ -6,7 +6,7 @@ In this project we will cover the basics of `Structure Query Language (SQL)`, `R
 
 ## Prerequisites
 
-- [DB Browser for SQLite](https://sqlitebrowser.org) installed.
+- [TablePlus](https://tableplus.com) installed.
 
 ## Project Setup
 
